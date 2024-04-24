@@ -1,0 +1,25 @@
+/* etiquetas*/
+h1, h2, h3 {
+    color: white;
+}
+p {
+    color: white;
+    text-align: justify;
+    font-size: 18px;
+}
+h1, h2 {
+    text-decoration: underline;
+}
+i {
+    font-size: 3rem;
+    margin: 7%;
+    color: white;
+}
+
+/* clases */
+.Fondogris {
+    background-color: gray;
+}
+.Fondoclaro {
+    background-color: rgb(187, 183, 183);
+}
